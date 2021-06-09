@@ -1,0 +1,14 @@
+1- man command is used to display the user manual of any command, to get out you must type q
+2- ls -l will display the owner, group owner, link count, permissions, ls -a will display hidden files.
+6- ctrl+A
+7- ctrl+E 
+8- ctrl+x
+9- ctrl+Backspace
+10- The Shell is a program which processes commands, like Bash in Linux. 
+A Terminal is a program that runs a Shell.
+11- the absolute path is /
+12- relative path can be . or ..
+13-  flag is a way to specify options for command line, examples 
+ls -l , rm -r
+14- rm -r : remove the directory and the contents inside it
+rm -f :remove the directory forcefully 
